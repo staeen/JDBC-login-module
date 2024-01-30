@@ -1,2 +1,2 @@
 # JDBC-login-module
-Makung use of java swings package
+Making use of java swings package
